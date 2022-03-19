@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
                 //     child: Text(""),
                 //   ),
                 // ),
-                buildkey(color: Colors.black, soundnum: 1),
+                buildkey(color: Colors.red, soundnum: 1),
                 // Expanded(
                 //   child: FlatButton(
                 //     color: Colors.orange,
